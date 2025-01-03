@@ -1,6 +1,6 @@
 # ✨ **Contador para o Meu Aniversário**
 
-Um simples contador regressivo feito com **HTML**, **CSS**, **JAVASCRIPT** para exibir o tempo restante até o dia do meu aniversário! Nele prático habilidades básicas de front-end enquanto crio algo divertido e funcional.
+- Um simples contador regressivo feito com **HTML**, **CSS**, **JAVASCRIPT** para exibir o tempo restante até o dia do meu aniversário! Nele prático habilidades básicas de front-end enquanto crio algo divertido e funcional.
 
 ---
 
