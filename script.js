@@ -11,7 +11,7 @@ function updateTimer() {
     const timeRemaining = newYearDate - now;
 
     if (timeRemaining <= 0) {
-        timerElement.textContent = "Feliz Ano Novo!!"
+        timerElement.textContent = "Feliz Aniversário ✨❤!!"
         clearInterval(timerInterval);
         return;
     }
